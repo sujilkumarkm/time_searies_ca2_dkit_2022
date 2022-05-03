@@ -1,4 +1,4 @@
-# semester2_ca2_time_series_data_architecture_dkit_2022
+# Air Pollution in the US
 
 This dataset deals with pollution in the U.S. Pollution in the U.S. has been well documented by the U.S. EPA.
 
